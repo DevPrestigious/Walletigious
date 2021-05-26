@@ -15,3 +15,5 @@ Today I present Walletigious 0.0.1!
 Used to disable the animation that comes when attatching a MagSafe wallet.
 
 Future Updates, I hope to add more functionality, such as changing the color of the wallet animation and adding system prefrences option.
+
+Special thank you to: @TheLazyITGuy, @tomaszpoliszuk, and @krit for teaching me along the way! :)
