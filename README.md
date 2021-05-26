@@ -1,0 +1,2 @@
+# Walletigious
+Disables MagSafe Wallet
