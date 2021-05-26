@@ -1,5 +1,6 @@
 # Walletigious
 Disables MagSafe Wallet
+
 Only works on iOS(>14.0) and A12+. For obvious reasons! ;)
 
 Created as my first iOS tweak ever.
