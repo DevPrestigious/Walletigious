@@ -1,6 +1,9 @@
 # Walletigious
 Disables MagSafe Wallet
 
+Updates:
+0.0.2, fixes bugs that disable other accessories other than the wallet.
+
 Only works on iOS(>14.0) and A12+. For obvious reasons! ;)
 
 Created as my first iOS tweak ever.

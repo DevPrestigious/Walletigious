@@ -12,7 +12,7 @@
 		if(self.type == 5)
 		return NO;
 		else
-        return NO;
+        return YES;
   
 }
 %end

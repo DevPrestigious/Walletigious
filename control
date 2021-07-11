@@ -1,6 +1,6 @@
 Package: com.devprestigious.walletigious
 Name: Walletigious
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Disables the short animation that pops up when attaching a MagSafe wallet.
 Maintainer: DevPrestigious
